@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoFencing</string>
+    <string name="add_geofences_result_success">GeoFencing success</string>
+    <string name="add_geofences_result_failure">GeoFencing failed</string>
+    <string name="remove_geofences_intent_success">GeoFencing removed</string>
+    <string name="remove_geofences_intent_failure">GeoFencing not removed</string>
+    <string name="geofence_transition_notification_title">GeoFencing App</string>
+    <string name="geofence_transition_notification_text">GeoFencing transition detected </string>
+    <string name="geofence_transition_entered">GeoFence Entered</string>
+    <string name="geofence_transition_exited">GeoFence Exited</string>
+    <string name="geofence_transition_unknown">GeoFence unknown</string>
+
+</resources>
